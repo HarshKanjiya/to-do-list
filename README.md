@@ -1,2 +1,2 @@
 # to-do-list
-this is coe for to do list
+this is code for to do list
